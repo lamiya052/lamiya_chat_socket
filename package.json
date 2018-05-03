@@ -1,0 +1,12 @@
+{
+  "name": "lamiya_chat_socket",
+  "version": "0.0.1",
+  "description": "my first socket chat app",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
