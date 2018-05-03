@@ -4,13 +4,21 @@ This is a simple group chat app. You can connect with your friends and family vi
 ### Installation
 
 I am using ubuntu 16.04. Put this app on Desktop.
+
 $ cd 
+
 $ cd Desktop
+
 $ cd lamiya_chat_socket
+
 $ sudo apt install aptitude
+
 $ sudo aptitude install npm
+
 $ npm install --save
+
 $ npm install --save express@4.15.2
+
 $ node index.js
 
 This app will run on 4000 port. We need two browser to test this app on localhost.
